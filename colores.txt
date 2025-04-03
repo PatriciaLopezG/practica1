@@ -4,4 +4,7 @@ Verde
 Amarillo
 Naranja
 Morado
+<<<<<<< HEAD
 Rosa
+Cyan
+
